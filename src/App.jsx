@@ -66,7 +66,7 @@ function App() {
   );
 }
 
-//Calulation
+//Calulation based on "board-rows"
 function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
