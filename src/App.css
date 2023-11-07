@@ -33,6 +33,10 @@
   justify-content: center;
 }
 
+.gameplay {
+  padding: 20px;
+}
+
 .game-info {
   margin: 20px;
   text-align: center;
@@ -52,6 +56,11 @@
 }
 
 .game-title {
+  margin: 20px;
+  text-align: center;
+}
+
+.score {
   margin: 20px;
   text-align: center;
 }
